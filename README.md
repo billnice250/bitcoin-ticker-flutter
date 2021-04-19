@@ -1,6 +1,6 @@
 # Bitcoin Ticker 🤑
 
-## What you will create
+## Overview
 
 An app to monitor your bitcoin investents on the move!
 
